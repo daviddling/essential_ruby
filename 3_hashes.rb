@@ -1,7 +1,7 @@
 # Hashes
 
 # Creating Hashes
-person1 = { "first_name" => "Raghu", "last_name" => "Betina" }
+person1 = { "first_name" => "Ragh", "last_name" => "Betina" }
 person2 = { "first_name" => "Michael", "last_name" => "Arthur" }
 
 # Accessing data from Hashes (use a key):
